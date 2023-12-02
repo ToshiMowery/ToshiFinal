@@ -1,0 +1,342 @@
+name,color,rarity,picked,ata,games_played,gpwr
+Invasion of Ravnica,,M,4523,1.4,25682,54.1
+Aerial Boost,W,C,61535,8.76,225615,57.2
+Alabaster Host Intercessor,W,C,46752,5.92,214876,54.3
+Alabaster Host Sanctifier,W,C,42940,7.71,178127,54
+Angelic Intervention,W,C,54109,7.32,243494,56.1
+Archangel Elspeth,W,M,4390,1.18,23316,56.7
+Attentive Skywarden,W,C,35265,8.91,99264,52.2
+Bola Slinger,W,C,49638,7.8,204755,56.1
+Boon-Bringer Valkyrie,W,R,9523,1.31,53717,58.1
+Cut Short,W,C,39511,7,162399,54.1
+Dusk Legion Duelist,W,R,7496,2.21,36422,54.9
+Elesh Norn,W,M,4412,1.18,23166,54.9
+Elspeth's Smite,W,U,22492,5.31,103908,54.4
+Enduring Bondwarden,W,C,41844,9.63,116863,54.8
+Golden-Scale Aeronaut,W,C,42643,10.25,91362,54.4
+Guardian of Ghirapur,W,R,8526,1.82,44562,56
+"Heliod, the Radiant Dawn",W,R,5911,2.75,23230,51.6
+Infected Defector,W,C,37925,10.71,55214,51
+Inspired Charge,W,C,41853,12.31,25495,53.4
+Invasion of Belenon,W,U,17284,5.27,72188,53.1
+Invasion of Dominaria,W,U,17216,6.1,60937,53.1
+Invasion of Gobakhan,W,R,7340,1.96,36072,54.8
+Invasion of Theros,W,R,5584,6.97,5519,50.2
+Kithkin Billyrider,W,C,42077,9.32,127236,53.9
+Knight of the New Coalition,W,C,50819,7.68,207767,56.6
+Knight-Errant of Eos,W,R,8241,1.96,41226,54.5
+Kor Halberd,W,C,45396,10.67,86371,54.8
+Monastery Mentor,W,M,4459,1.44,23377,54.9
+Norn's Inquisitor,W,U,32411,3,172784,57.8
+Phyrexian Awakening,W,U,25874,5.07,109881,53.9
+Phyrexian Censor,W,U,27273,6.62,88392,54
+Progenitor Exarch,W,R,8901,1.67,46840,54.6
+Realmbreaker's Grasp,W,C,42878,4.61,222544,54.5
+Scrollshift,W,C,45099,10.84,61097,52.7
+Seal from Existence,W,U,25752,3.17,134366,54.9
+Seraph of New Capenna,W,U,19525,7.06,65993,51.7
+Sigiled Sentinel,W,C,49854,6.54,247275,56
+Sun-Blessed Guardian,W,U,22261,6.43,89790,53.3
+Sunder the Gateway,W,C,43028,9.06,121504,54.4
+Sunfall,W,R,9957,1.35,55744,58.9
+Surge of Salvation,W,U,22232,10.05,34599,54
+Swordsworn Cavalier,W,C,59069,7.56,265501,57.2
+Tarkir Duneshaper,W,C,51771,9.28,164042,55.3
+Tiller of Flesh,W,U,21848,6.81,67488,51.2
+Zhalfirin Lancer,W,U,29948,5.92,131504,55.9
+Artistic Refusal,U,U,47899,5.22,242370,57.5
+Assimilate Essence,U,C,70956,8.29,276562,56.6
+Astral Wingspan,U,U,34408,7.47,110872,55.3
+Captive Weird,U,U,48004,4.25,265801,57.7
+Change the Equation,U,U,26717,11.18,13659,50.4
+Chrome Host Seedshark,U,R,10763,1.42,64024,58.7
+Complete the Circuit,U,R,8234,8.6,3303,50.6
+Corruption of Towashi,U,U,36445,5.49,151330,54.3
+Disturbing Conversion,U,C,55980,11.23,73935,53.4
+Ephara's Dispersal,U,C,87725,5.34,483401,57.6
+Expedition Lookout,U,C,61106,10.68,126420,54
+Eyes of Gitaxias,U,C,79950,7,374146,57.1
+Faerie Mastermind,U,R,11142,1.85,62428,57.5
+Furtive Analyst,U,C,50436,12.07,39945,49.8
+Halo-Charged Skaab,U,C,65429,10.53,134331,54.6
+Invasion of Arcavios,U,R,6836,8.21,2787,47.1
+Invasion of Kamigawa,U,U,21159,7.34,60695,50.4
+Invasion of Segovia,U,R,10822,2.15,57250,56.3
+Invasion of Vryn,U,U,28940,6.88,99092,54.4
+Jin-Gitaxias,U,M,4529,1.6,23482,55.1
+Meeting of Minds,U,C,71028,6.93,333858,56.2
+Moment of Truth,U,C,54348,11.35,68375,53.6
+Negate,U,C,48114,12.28,32174,52.1
+Oculus Whelp,U,C,48747,10.99,64908,51.5
+Omen Hawker,U,U,43235,8.3,135375,56.1
+Oracle of Tragedy,U,U,36934,6.77,162908,55.1
+Order of the Mirror,U,C,67344,7.49,298076,54.8
+Preening Champion,U,C,83914,3.38,489231,58.3
+Protocol Knight,U,C,58988,9.08,193079,56.9
+"Rona, Herald of Invasion",U,R,10755,1.79,60223,56.1
+Saiba Cryptomancer,U,C,74052,7.78,335555,56.7
+See Double,U,R,11644,2.3,60909,55.1
+Skyclave Aerialist,U,U,43284,3.71,245357,57.2
+Stasis Field,U,C,48972,8.86,155979,52.9
+Temporal Cleansing,U,C,80667,7.21,382150,56.9
+Thunderhead Squadron,U,C,51403,10.01,119413,53.2
+Tidal Terror,U,C,61957,8.82,217954,54.4
+Transcendent Message,U,R,11755,4.47,45135,55.4
+Wicked Slumber,U,U,32833,7.81,106976,54.9
+Xerex Strobe-Knight,U,U,40419,3.39,226680,56.6
+Zephyr Singer,U,R,11184,1.66,64080,58.8
+Zhalfirin Shapecraft,U,C,61888,10.67,121308,55.1
+Aetherblade Agent,B,C,60909,5.3,322836,54.2
+Archpriest of Shadows,B,R,9659,1.45,52611,54.8
+"Ayara, Widow of the Realm",B,R,8880,1.91,45609,53.9
+Bladed Battle-Fan,B,C,49397,11.26,59862,53
+Blightreaper Thallid,B,U,39279,3.77,213846,55.7
+Bloated Processor,B,R,9839,1.96,52750,55.1
+Breach the Multiverse,B,R,11097,1.73,62792,57.5
+Collective Nightmare,B,U,36876,3.09,201233,55.3
+Compleated Huntmaster,B,U,29932,5.3,141412,52.8
+Consuming Aetherborn,B,C,46118,10.69,70156,52.1
+Corrupted Conviction,B,C,49823,10.8,94501,53.8
+Deadly Derision,B,C,64938,2.96,362453,55.8
+Dreg Recycler,B,C,57010,9.36,181252,53.8
+Etched Familiar,B,C,48632,8.88,158546,52.5
+Etched Host Doombringer,B,C,44462,11.07,51595,51.7
+Failed Conversion,B,C,44532,9.6,93017,51.6
+Final Flourish,B,C,69358,4.03,380391,55.5
+Flitting Guerrilla,B,C,47175,9.86,121616,52.4
+Gift of Compleation,B,U,29130,5.78,127124,53.5
+Glistening Deluge,B,U,25924,11.21,12793,50.9
+Gloomfang Mauler,B,C,53005,7.91,210155,53.4
+Grafted Butcher,B,R,9134,1.97,47608,54.9
+Hoarding Broodlord,B,R,10369,1.63,56760,56.1
+Ichor Drinker,B,C,64658,7.46,305575,55.7
+Ichor Shade,B,C,39507,10.2,88375,50.3
+Invasion of Eldraine,B,U,27083,5.65,121070,54.8
+Invasion of Fiora,B,R,10086,1.45,56084,56.1
+Invasion of Innistrad,B,M,4875,1.37,27147,56.6
+Invasion of Ulgrotha,B,U,24294,4.86,111787,53.2
+Merciless Repurposing,B,U,35313,4.44,176863,55
+Mirrodin Avenged,B,C,40835,11.72,37620,51.1
+Nezumi Freewheeler,B,U,25245,5.84,105998,52.1
+Nezumi Informant,B,C,68915,6.18,357823,55.6
+Phyrexian Gargantua,B,U,31130,5.82,138160,53.6
+Pile On,B,R,10029,1.51,56230,56.5
+Render Inert,B,U,30964,8.09,81076,53.9
+Scorn-Blade Berserker,B,U,39625,5.56,198056,56.1
+Sheoldred,B,M,4611,1.19,26527,57.7
+Tenured Oilcaster,B,C,42522,11.8,37912,49.9
+Traumatic Revelation,B,C,55829,9.18,175915,54.1
+Unseal the Necropolis,B,C,67970,8.11,269819,55.1
+Vanquish the Weak,B,C,53734,5.26,267810,54
+Akki Scrapchomper,R,C,47640,12.3,51376,53.6
+Beamtown Beatstick,R,C,53133,9.47,161987,53.9
+Bloodfeather Phoenix,R,R,6886,3.53,30707,54.2
+Burning Sun's Fury,R,C,43104,13.19,11289,48.8
+"Chandra, Hope's Beacon",R,M,4599,1.3,24136,57
+City on Fire,R,R,7510,4.77,23204,52.5
+Coming In Hot,R,C,42849,12.65,26300,51.3
+"Etali, Primal Conqueror",R,R,9763,1.4,52550,56.5
+Fearless Skald,R,U,29326,6.25,124571,55.4
+Furnace Gremlin,R,U,27171,7.52,107492,53.4
+Furnace Host Charger,R,C,46732,9.76,121768,52.1
+Furnace Reins,R,U,30563,7.94,87213,55.1
+Hangar Scrounger,R,C,49093,10.03,148941,54.4
+Harried Artisan,R,U,22530,6.86,85175,52.4
+Into the Fire,R,R,5957,3.98,19597,50.6
+Invasion of Kaldheim,R,R,7875,3.27,31358,51.1
+Invasion of Karsus,R,R,7541,2.33,32305,53.4
+Invasion of Mercadia,R,U,28942,5.19,136888,55.3
+Invasion of Regatha,R,U,20322,5.72,80695,53.2
+Invasion of Tarkir,R,M,4525,1.82,22865,56.2
+Karsus Depthguard,R,C,42796,11.99,45732,51.3
+Khenra Spellspear,R,U,31542,3.67,162125,54.7
+Lithomantic Barrage,R,U,26250,9.81,40768,53.3
+Marauding Dreadship,R,C,60700,9.63,184478,55.3
+Mirran Banesplitter,R,C,42293,12.45,30688,52.6
+Nahiri's Warcrafting,R,R,8379,2.23,41964,54.6
+Onakke Javelineer,R,C,43421,11.31,70940,51.8
+Pyretic Prankster,R,C,51451,9.07,177548,52.3
+Ral's Reinforcements,R,C,59999,7.65,247165,55.3
+Ramosian Greatsword,R,U,28245,9.76,53694,52.4
+Rampaging Raptor,R,R,8370,1.84,41666,54.4
+Redcap Heelslasher,R,C,42420,11.09,75989,51.7
+Scrappy Bruiser,R,U,23684,10.81,22545,50.8
+Searing Barb,R,C,40058,10.88,59315,51.8
+Shatter the Source,R,C,50717,8.74,179043,53.1
+Shivan Branch-Burner,R,U,23505,7.01,84950,52.7
+Stoke the Flames,R,U,31282,3.36,162087,54.5
+Thrashing Frontliner,R,C,47182,10.27,126052,53
+Trailblazing Historian,R,C,42297,11.83,49955,51.2
+Urabrask,R,M,3685,1.74,17306,53.2
+Volcanic Spite,R,C,58089,3.8,305816,55.4
+Voldaren Thrillseeker,R,R,9163,2.16,47031,56
+War-Trained Slasher,R,C,39225,11.35,56850,51.2
+Wrenn's Resolve,R,C,45234,11.63,58935,53.1
+Ancient Imperiosaur,G,R,9135,1.55,48308,56
+Arachnoid Adaptation,G,C,52487,11.1,108111,55
+Atraxa's Fall,G,C,36158,11.69,39208,51
+Blighted Burgeoning,G,C,53475,6.72,235510,53.9
+Bonded Herdbeast,G,C,42798,11.64,47443,51
+Chomping Kavu,G,C,47724,8.95,163740,54.1
+Converter Beast,G,C,56822,8.38,227575,54.9
+Copper Host Crusher,G,U,21852,10.1,35035,50.7
+Cosmic Hunger,G,C,50816,5.56,263253,54.7
+Crystal Carapace,G,C,38653,13.29,5583,47
+Deeproot Wayfinder,G,R,8073,2.32,41261,54.1
+Doomskar Warrior,G,R,9017,1.7,47775,55.8
+Fertilid's Favor,G,C,42654,10.23,92199,52.3
+Glistening Dawn,G,R,9729,1.75,52982,56.3
+Gnottvold Hermit,G,U,22175,7.02,83081,52.9
+Herbology Instructor,G,U,32872,4.06,172315,55.4
+Invasion of Ikoria,G,R,6892,2.4,31689,53.6
+Invasion of Ixalan,G,R,8509,2.12,43471,55.7
+Invasion of Muraganda,G,U,18714,6.51,70929,52.2
+Invasion of Shandalar,G,M,2874,2.52,10785,50.5
+Invasion of Zendikar,G,U,24550,3.71,121963,53.2
+Iridescent Blademaster,G,C,46778,10.36,113913,53
+Kami of Whispered Hopes,G,U,25862,4.18,129833,53.5
+Overgrown Pest,G,C,57208,5.86,288688,54.8
+"Ozolith, the Shattered Spire",G,R,8615,1.67,45361,54.8
+Placid Rottentail,G,C,38000,11.52,53427,51.8
+Polukranos Reborn,G,R,8345,1.86,43682,55.9
+Portent Tracker,G,C,49913,6.38,239238,53.6
+Ravenous Sailback,G,U,23278,8,67024,52.9
+Sandstalker Moloch,G,U,29726,6.3,132519,55.1
+Seed of Hope,G,C,54574,11.75,78345,54.7
+Serpent-Blade Assailant,G,C,40853,8.54,165107,53.7
+Storm the Seedcore,G,U,25244,7.21,88568,54.3
+Streetwise Negotiator,G,U,35907,4.64,188305,55.8
+Tandem Takedown,G,U,30608,4.19,160483,55.2
+Tangled Skyline,G,U,35102,5.67,158163,55.1
+Timberland Ancient,G,C,45876,8.27,183824,53.5
+Tribute to the World Tree,G,R,6589,2.84,27669,51.2
+Vengeant Earth,G,C,41303,13.32,7089,48.8
+Vorinclex,G,M,4471,1.32,24041,57.4
+War Historian,G,C,47557,9.23,153379,53.3
+Wary Thespian,G,C,57130,7.66,269403,54.8
+Wildwood Escort,G,C,48684,9.94,126327,53.2
+Wrenn and Realmbreaker,G,M,4105,1.42,20307,54.4
+Baral and Kari Zev,UR,R,9190,3.41,33458,54.3
+Borborygmos and Fblthp,URG,M,5034,2.53,22309,56.1
+Botanical Brawler,WG,U,24875,5.7,98024,55
+Djeru and Hazoret,WR,R,6407,4.49,17837,51.9
+Drana and Linvala,WB,R,6156,3.14,21045,51.3
+Elvish Vatkeeper,BG,U,32326,5.24,140322,55.3
+Errant and Giada,WU,R,8629,3.78,32488,55.8
+Ghalta and Mavren,WG,R,7766,2.19,33097,53.9
+"Glissa, Herald of Predation",BG,R,10214,1.44,57637,57.1
+Halo Forager,UB,U,44824,4.5,217597,56.8
+Hidetsugu and Kairi,UB,R,11346,2.01,58839,57.7
+Inga and Esika,UG,R,8580,2.86,37387,53.6
+Invasion of Alara,WUBRG,R,9272,5.24,22857,50
+Invasion of Amonkhet,UB,U,40562,3.95,206372,57.4
+Invasion of Azgol,BR,U,25106,6.84,88491,54.6
+Invasion of Ergamon,RG,U,20429,9.15,45415,51.3
+Invasion of Kaladesh,UR,U,26489,10.03,41576,53.8
+Invasion of Kylem,WR,U,18377,10.5,19659,50.1
+Invasion of Lorwyn,BG,U,24968,5.9,101227,52.5
+Invasion of Moag,WG,U,18175,7.25,56251,51.4
+Invasion of New Capenna,WB,U,20005,8.12,47779,50.7
+Invasion of New Phyrexia,WU,M,5078,1.35,28471,57.7
+Invasion of Pyrulea,UG,U,26686,8.35,78500,53.5
+Invasion of Tolvada,WB,R,9061,2.05,41839,52.9
+Invasion of Xerex,WU,U,26739,7.34,87076,55.6
+Joyful Stormsculptor,UR,U,31645,8.21,82457,53.8
+Kogla and Yidaro,RG,R,8629,2.48,35864,54.4
+Kroxa and Kunoros,WBR,M,3928,2.23,15280,51.5
+Marshal of Zhalfir,WU,U,36691,4.8,165099,59.3
+Mirror-Shield Hoplite,WR,U,25780,8.17,67856,55.1
+Mutagen Connoisseur,UG,U,29952,9.42,68712,52.3
+"Omnath, Locus of All",WURG,R,8019,5.56,16598,48.8
+"Quintorius, Loremaster",WR,R,8610,2.74,34452,54.2
+Rampaging Geoderm,RG,U,24260,7.85,69496,52.9
+Rankle and Torbran,BR,R,7834,3.31,29169,52.5
+Sculpted Perfection,WB,U,24964,6.5,82274,51.6
+Stormclaw Rager,BR,U,31816,6.97,110204,52.8
+Thalia and The Gitrog Monster,WBG,M,4080,1.9,17923,53.4
+Yargle and Multani,BG,R,6107,7.13,8563,50.9
+Zimone and Dina,UBG,M,4473,3.16,16713,53.7
+Zurgo and Ojutai,WUR,M,4533,2.23,18055,54.9
+Flywheel Racer,,C,61591,10.77,118308,53.9
+Halo Hopper,,C,57770,11.55,85498,55.1
+Kitesail,,C,45564,11.87,49675,52.9
+Phyrexian Archivist,,C,46927,13.47,7898,50.5
+"Realmbreaker, the Invasion Tree",,R,6561,4.89,19456,51.3
+Skittering Surveyor,,C,61883,5.73,285373,53.7
+Sword of Once and Future,,M,4740,1.2,27927,56.2
+Urn of Godfire,,C,50328,11.77,56896,51.5
+Bloodfell Caves,,B,37280,8.4,129155,53.1
+Blossoming Sands,,B,31557,8.24,115764,53
+Dismal Backwater,,B,45523,7.4,208220,55.4
+Jungle Hollow,,B,37990,7.52,161027,54
+Rugged Highlands,,B,33551,8.86,106713,52.9
+Scoured Barrens,,B,34980,7.76,126882,52.6
+Swiftwater Cliffs,,B,40938,8.58,139418,54
+Thornwood Falls,,B,41456,8.07,163982,54.1
+Tranquil Cove,,B,39884,8.08,154943,54.8
+Wind-Scarred Crag,,B,32690,8.85,100891,52.7
+"Anafenza, Kin-Tree Spirit",W,R,4643,2.62,24148,55.2
+"Daxos, Blessed by the Sun",W,U,15732,7.03,56631,53.4
+"Elesh Norn, Grand Cenobite",W,M,2915,1.24,16956,58.6
+"Kenrith, the Returned King",W,M,2806,1.43,15608,54.4
+"Kwende, Pride of Femeref",W,U,15874,8.97,33443,54.4
+"Sram, Senior Edificer",W,R,4436,6.08,12562,53.7
+"Thalia, Guardian of Thraben",W,R,3951,3.68,16988,53.7
+"Baral, Chief of Compliance",U,R,5987,5.22,26017,56
+"Emry, Lurker of the Loch",U,R,4981,9.32,1621,51.3
+Inga Rune-Eyes,U,U,28339,6.93,120402,56.1
+"Jin-Gitaxias, Core Augur",U,M,1603,6.18,1186,44.4
+"Tetsuko Umezawa, Fugitive",U,U,31937,5.85,156392,56.7
+"Ayara, First of Locthwain",B,R,3982,5.9,9916,52.2
+"Horobi, Death's Wail",B,R,4095,4.66,13818,52.3
+"Seizan, Perverter of Truth",B,R,3663,8.66,1974,46.3
+"Sheoldred, Whispering One",B,M,2904,1.39,16366,56.2
+"Skithiryx, the Blight Dragon",B,M,2559,1.65,13189,52.9
+"Tymaret, Chosen from Death",B,U,22448,6.97,92932,54.3
+"Yargle, Glutton of Urborg",B,U,15722,11.83,3908,45.8
+Captain Lannery Storm,R,R,4993,3.04,25327,54.6
+"Ragavan, Nimble Pilferer",R,M,2536,1.76,12952,55.6
+"Squee, the Immortal",R,R,3923,6.48,11303,50.1
+Urabrask the Hidden,R,M,2144,2.27,9861,51.8
+"Valduk, Keeper of the Flame",R,U,18242,9.3,37652,52.4
+"Zada, Hedron Grinder",R,U,19387,9.85,20327,52.8
+"Fynn, the Fangbearer",G,U,19653,5.56,97741,54.4
+"Goreclaw, Terror of Qal Sisma",G,R,4068,3.01,19203,53.5
+"Renata, Called to the Hunt",G,U,14304,5.22,63703,52
+"Vorinclex, Voice of Hunger",G,M,1442,3.39,4279,48.9
+"Yedora, Grave Gardener",G,R,3435,5.61,10218,52
+"Aegar, the Freezing Flame",UR,U,21577,9.54,44509,54.4
+"Arixmethes, Slumbering Isle",UG,R,4453,5.63,11275,49.2
+"Atraxa, Praetors' Voice",WUBG,M,2602,2.72,10826,54
+"Atris, Oracle of Half-Truths",UB,R,7953,3.2,40236,57
+"Aurelia, the Warleader",WR,M,2198,2.86,8250,54.4
+"Brudiclad, Telchor Engineer",UR,R,6616,3.17,29575,54.4
+"Dina, Soul Steeper",BG,U,17407,11.22,15309,50.5
+"Ezuri, Claw of Progress",UG,M,2310,3.38,8950,51.7
+Firesong and Sunspeaker,WR,R,3925,8.51,2087,48.8
+"Firja, Judge of Valor",WB,U,17240,7.89,45154,51.2
+"Grimgrin, Corpse-Born",UB,M,3406,2.16,17472,56.5
+"Gyruda, Doom of Depths",UB,R,6984,1.97,36016,55.8
+"Imoti, Celebrant of Bounty",UG,U,28876,6.42,106478,54.6
+"Jegantha, the Wellspring",RG,R,5418,4.29,8922,51.4
+"Judith, the Scourge Diva",BR,R,5505,4.13,22773,55.2
+"Juri, Master of the Revue",BR,U,22206,8.06,65693,53.2
+"Kaheera, the Orphanguard",WG,R,3877,6.93,7032,50.4
+"Keruga, the Macrosage",UG,R,5909,2.71,30606,55.7
+"Kroxa, Titan of Death's Hunger",BR,M,2541,2.74,10575,55
+"Lathiel, the Bounteous Dawn",WG,R,3591,5.92,9061,50.4
+Lurrus of the Dream-Den,WB,R,6474,1.87,33171,56.2
+"Lutri, the Spellchaser",UR,R,7257,3.01,13456,54.2
+Niv-Mizzet Reborn,WUBRG,M,2527,5.43,5181,49.5
+"Obosh, the Preypiercer",BR,R,4911,3.19,21905,52.9
+"Radha, Coalition Warlord",RG,U,16268,11.46,10608,48
+"Raff, Weatherlight Stalwart",WU,U,28013,6.46,102079,56.4
+"Reyav, Master Smith",WR,U,20560,9.26,40088,55.3
+"Rona, Sheoldred's Faithful",UB,U,20239,10.67,27317,53.6
+"Shanna, Sisay's Legacy",WG,U,16243,9.07,42373,54.1
+"Taigam, Ojutai Master",WU,R,4667,5.67,11889,51.7
+Teysa Karlov,WB,R,3895,5.74,9865,49.4
+"Umori, the Collector",BG,R,5412,2.99,28185,54.5
+"Yarok, the Desecrated",UBG,M,2931,2.87,12528,52.5
+"Yorion, Sky Nomad",WU,R,7109,1.9,29276,57.1
+"Zirda, the Dawnwaker",WR,R,4545,4.76,18145,54.1
