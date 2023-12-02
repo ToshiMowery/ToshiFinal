@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title><Milestone1></title>
+  <style>
+    /* style div and headers */
+    .chart,
+    h2 {
+      text-align: center;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .toolbox span {
+      padding: 5px;
+    }
+
+    svg {
+      
+    }
+
+    /* style of bar charts */
+    .bar-chart rect {
+      fill: rgb(79, 175, 211);
+    }
+
+    .bar-chart .hovered {
+      fill: #979696;
+    }
+
+
+    text {
+      fill: black;
+    }
+
+    /* style of area charts */
+    .area-chart {
+      fill: rgb(79, 175, 211);
+    }
+
+    /* style of scatter plot */
+    .scatter-plot circle {
+      fill: rgb(79, 175, 211);
+    }
+
+    .scatter-plot .hovered {
+      fill: #979696;
+    }
+    body {
+    background-color: lightblue;
+  }
+  </style>
+  <!-- d3 script -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+  <h3>CS-5630 / Final</h3>
+  <address>
+    <span>Toshi Mowery</span>
+    <span>u1366107@utah.edu</span>
+    <span>u1366107</span>
+  </address>
+  <br />
+  <hr />
+  <br />
+  <div> <a href="https://drive.google.com/drive/folders/1iNSvAnxXzZWcLBDjglfeU_bfebTkrqB1?usp=drive_link"> Link to process book and data</a> </div>
+  <div> <a href="https://drive.google.com/drive/folders/1iNSvAnxXzZWcLBDjglfeU_bfebTkrqB1?usp=drive_link"> Link to video</a> </div>
+  <div class="toolbox">
+
+    <span>
+      <label>Magic Set:</label>
+      
+      <select id="dataset">
+        <option selected value="WoE">Wilds of Eldraine</option>
+        <option value="MoM">March of the Machines</option>
+        <option value="LoTR">Lord of the Rings</option>
+      </select>
+    </span>
+    <span>
+      <label>Data Type</label>
+      <select id="type">
+        <option value="winrate">Winrate</option>
+        <option value="pickedAt">Picked at</option>
+      </select>
+    </span>
+    
+
+    <!-- <span> <input type="checkbox" id="white" /> White  </span>
+    <span> <input type="checkbox" id="blue" /> Blue  </span>
+    <span> <input type="checkbox" id="black" /> Black  </span>
+    <span> <input type="checkbox" id="red" /> Red  </span>
+    <span> <input type="checkbox" id="green" /> Green  </span>
+      <span> <input type="checkbox" id="colorless" /> Colorless  </span> -->
+
+    <span> <input type="checkbox" id="raremyth" /> Rare/Mythic  </span>
+    <span> <input type="checkbox" id="uncommon" /> Uncommon  </span>
+    <span> <input type="checkbox" id="common" /> Common  </span>
+     
+
+
+  </div>
+  <br />
+  <div class="row chart">
+    <div class="chart">
+      <h2 class ="graphName">Top 20 cards</h2>
+      <div id="Barchart-div-Top">
+      </div>
+      <h2 class ="graphName">White Cards</h2>
+      <div id="Barchart-div-W">
+      </div>
+      <h2 class ="graphName">Blue Cards</h2>
+      <div id="Barchart-div-U">
+      </div>
+      <h2 class ="graphName">Black Cards</h2>
+      <div id="Barchart-div-B">
+      </div>
+      <h2 class ="graphName">Red Cards</h2>
+      <div id="Barchart-div-R">
+      </div>
+      <h2 class ="graphName">Green Cards</h2>
+      <div id="Barchart-div-G">
+      </div>
+      
+    </div>
+  </div>
+
+
+
+</body>
+<script src="script.js"></script>
+
+</html>
